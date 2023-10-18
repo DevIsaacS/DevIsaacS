@@ -14,26 +14,6 @@ Feel free to explore my repositories and projects. Let's connect and learn toget
 
 Thanks for visiting!
 
-🌟 Happy coding!
-
-Olá, sou o Isaac, um programador iniciante em uma jornada de aprendizado contínuo.
-
-👨‍💻 Sobre Mim:
-- 🌱 Sou apaixonado por codificação e estou constantemente expandindo meu conhecimento.
-- 💼 Atualmente, estou explorando o desenvolvimento web, ciência de dados e muito mais.
-- 🚀 Adoro construir projetos práticos e resolver problemas do mundo real.
-- 📚 Estou dedicado à autossuperação e aberto a colaborações.
-
-Sinta-se à vontade para explorar meus repositórios e projetos. Vamos nos conectar e aprender juntos!
-
-📫 Contato:
-- Email: [Seu e-mail]
-- LinkedIn: [Seu perfil no LinkedIn]
-
-Obrigado pela visita!
-
-🌟 Feliz codificação!
-
 <!---
 DevIsaacS/DIOs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
